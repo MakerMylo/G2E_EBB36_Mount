@@ -32,7 +32,6 @@ This design is released under the creative commons license.
 ## Questions or Issues?
 Feel free to open an issue in this repository if you encounter any problems or have questions.
 
-Thank Me
-===
+## Thank Me
 A few ways you can show your appreciation for my work:\
 [Buy Me a Coffee](https://buymeacoffee.com/makermylo) | [Subscribe on YouTube](https://www.youtube.com/@makermylo) | [Follow on X](https://x.com/MakerMylo)
