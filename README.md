@@ -8,6 +8,7 @@ This mount is designed to securely attach an EBB36 control board to the G2E extr
 - Custom designed for EBB36 (And similar) board integration
 - Compatible with G2E extruder assembly
 - Clean and efficient mounting solution
+- Threaded Insert hole in upright for securing umbilical spring steel.
 
 ## Printing Instructions
 - Layer Height: 0.2mm
